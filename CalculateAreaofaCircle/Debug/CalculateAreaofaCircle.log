@@ -1,0 +1,3 @@
+﻿  CalculateAreaofaCircle.cpp
+D:\Microsoft VS\CalculateAreaofaCircle\CalculateAreaofaCircle.cpp(25,30): error C2059: syntax error: '<'
+D:\Microsoft VS\CalculateAreaofaCircle\CalculateAreaofaCircle.cpp(26,34): error C2062: type 'double' unexpected
